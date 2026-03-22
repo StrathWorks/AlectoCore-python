@@ -9,8 +9,7 @@ description = "Official Python SDK for Alecto Core"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = []
-license = { text = "MIT" }
-license-files = ["LICENSE"]
+license = "MIT"
 authors = [
   { name = "StrathWorks Ltd", email = "support@alectocore.com" }
 ]
